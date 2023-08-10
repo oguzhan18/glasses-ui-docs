@@ -1,0 +1,23 @@
+{
+    "name": "glasses-docs",
+    "version": "0.0.1",
+    "description": "Welcome to Glasses Documentation, everything you need to know about working with Glasses CSS and related tools can be found here.",
+    "main": "index.js",
+    "scripts": {
+        "start-ssr": "docsify start .",
+        "start": "docsify serve --open"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/oguzhan18/glasses-ui-docs.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/oguzhan18/glasses-ui-docs/issues"
+    },
+    "homepage": "https://github.com/oguzhan18/glasses-ui-docs#readme",
+    "devDependencies": {
+        "docsify-cli": "^4.4.3"
+    }
+}
